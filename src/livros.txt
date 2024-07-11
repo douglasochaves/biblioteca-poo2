@@ -1,0 +1,5 @@
+1;O Senhor dos Anéis;J.R.R. Tolkien;Fantasia;true;null
+2;1984;George Orwell;Distopia;false;Flavia
+3;Dom Quixote;Miguel de Cervantes;Clássico;true;null
+4;O Apanhador no Campo de Centeio;J.D. Salinger;Romance;true;null
+5;A Revolução dos Bichos;George Orwell;Distopia;false;Leonardo
